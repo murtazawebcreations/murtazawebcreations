@@ -38,19 +38,6 @@
 
 </div>
 
-```yaml
-name        : Muhammad Murtaza
-handle      : murtazawebcreations
-location    : Pakistan 🇵🇰
-expertise   : WordPress · WooCommerce · Shopify · Frontend Dev
-focus       : High-converting eCommerce stores & sleek web interfaces
-mindset     : Performance-first · Clean code · Pixel-perfect UIs
-currently   : Building scalable WordPress & Shopify solutions
-open_to     : Freelance projects · Remote contracts · Collaborations
-```
-
-<br/>
-
 <div align="center">
 <table>
 <tr>
