@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=800&color=00EEFF&center=true&vCenter=true&width=500&lines=WordPress+Developer;WooCommerce+Expert;Shopify+Expert;Frontend+Developer;UI%2FUX+Craftsman" alt="Typing SVG" />
 <div>
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-ff0000?style=flat-square" alt="Experience" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-ff0000?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-?style=flat-square" alt="Experience" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-?style=flat-square" alt="Status" />
 </div>
 
 ---
