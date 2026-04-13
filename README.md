@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/github/followers/murtazawebcreations?label=Followers&style=flat-square&color=0ef&labelColor=" alt="Followers" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-00EEFF?style=flat-square&labelColor=" alt="Experience" />
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-?style=flat-square&labelColor=" alt="Experience" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00cc77?style=flat-square&labelColor=" alt="Status" />
 
