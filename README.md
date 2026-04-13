@@ -165,6 +165,8 @@ Modern SaaS marketing page built in React with Tailwind CSS — smooth scroll an
 
 💼 &nbsp;**LinkedIn** — [linkedin.com/in/murtazawebcreations](https://linkedin.com/in/murtazawebcreations)
 
+🔗 &nbsp;**Facebook** — [facebook.com/murtaza.webcreations](https://www.facebook.com/murtaza.webcreations)
+
 ---
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=00EEFF=true&vCenter=true&width=600&lines=Available+for+freelance+%26+remote+work+%F0%9F%9A%80;Let's+build+something+great+together+%F0%9F%A4%9D;Drop+me+a+message+anytime+%E2%9C%89%EF%B8%8F" alt="Footer Typing" />
 <sub>Made with ❤️ by Muhammad Murtaza · 2025</sub>
