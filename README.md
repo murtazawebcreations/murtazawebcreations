@@ -5,14 +5,10 @@
 
 <br/>
 
-# Hi, I'm Muhammad Murtaza &nbsp;👋
+# Hi, I'm Muhammad Murtaza👋
 
 <!-- ANIMATED ROLE SWITCHER -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00EEFF&center=true&vCenter=true&width=500&lines=WordPress+Developer;WooCommerce+Expert;Shopify+Expert;Frontend+Developer;UI%2FUX+Craftsman" alt="Typing SVG" />
-
-<br/>
-
-**`Crafting Digital Experiences · Building eCommerce Solutions · Shipping Clean Code`**
 
 <br/>
 
