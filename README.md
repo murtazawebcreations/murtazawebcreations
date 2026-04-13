@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00EEFF&center=false&vCenter=true&width=500&lines=WordPress+Developer;WooCommerce+Expert;Shopify+Expert;Frontend+Developer;UI%2FUX+Craftsman" alt="Typing SVG" />
 
-**Crafting Digital Experiences · Building eCommerce Solutions · Shipping Clean Code**
-
 <img src="https://img.shields.io/badge/Experience-3%2B%20Years-00EEFF?style=flat-square" alt="Experience" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00cc77?style=flat-square" alt="Status" />
@@ -14,16 +12,6 @@
 
 ## 🚀 About Me
 
-```yaml
-name        : Muhammad Murtaza
-handle      : murtazawebcreations
-location    : Pakistan 🇵🇰
-expertise   : WordPress · WooCommerce · Shopify · Frontend Dev
-focus       : High-converting eCommerce stores & sleek web interfaces
-mindset     : Performance-first · Clean code · Pixel-perfect UIs
-currently   : Building scalable WordPress & Shopify solutions
-open_to     : Freelance projects · Remote contracts · Collaborations
-```
 
 <br/>
 
@@ -200,5 +188,5 @@ Modern SaaS marketing page built in React with Tailwind CSS — smooth scroll an
 💼 &nbsp;**LinkedIn** — [linkedin.com/in/murtazawebcreations](https://linkedin.com/in/murtazawebcreations)
 
 ---
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=00EEFF&center=true&vCenter=true&width=600&lines=Available+for+freelance+%26+remote+work+%F0%9F%9A%80;Let's+build+something+great+together+%F0%9F%A4%9D;Drop+me+a+message+anytime+%E2%9C%89%EF%B8%8F" alt="Footer Typing" />
 <sub>Made with ❤️ by Muhammad Murtaza · 2025</sub>
