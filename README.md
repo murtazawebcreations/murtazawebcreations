@@ -1,4 +1,4 @@
-<!-- HERO -->
+<div align="center">
 
 # Hi, I'm Muhammad Murtaza 👋
 
@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00cc77?style=flat-square" alt="Status" />
 </div>
 ---
+</div>
 
 ## 🚀 About Me
 
