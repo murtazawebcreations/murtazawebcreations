@@ -19,8 +19,8 @@
 * ⚡ &nbsp;Delivering **fast, SEO-optimized** web experiences
 * 🤝 &nbsp;Turning client visions into **polished digital products**
 
-<ul font-size="12px">
-  <li font-size="12px">💻 &nbsp;Frontend Developer with 3+ years of experience</li>
+<ul size="12px">
+  <li size="12px">💻 &nbsp;Frontend Developer with 3+ years of experience</li>
   <li>💻 &nbsp;Frontend Developer with 3+ years of experience</li>
   <li>💻 &nbsp;Frontend Developer with 3+ years of experience</li>
   <li>💻 &nbsp;Frontend Developer with 3+ years of experience</li>
