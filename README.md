@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=800&color=00EEFF&center=true&vCenter=true&width=500&lines=WordPress+Developer;WooCommerce+Expert;Shopify+Expert;Frontend+Developer;UI%2FUX+Craftsman" alt="Typing SVG" />
 <div>
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-?style=flat-square" alt="Experience" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-#0277BD?style=flat-square" alt="Experience" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-#0277BD?style=flat-square" alt="Status" />
 </div>
 
 ---
@@ -85,44 +85,44 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ Multi-Vendor WooCommerce Store
-A full-featured multi-vendor marketplace built on WooCommerce with custom vendor dashboards, advanced product filtering, and integrated payment gateways.
+### 🛍️ Boxer Athletics WooCommerce Store
+Built a full WooCommerce store with payment gateway integration, product variation pricing, and custom shopping experience.
 
-**Stack:** `WordPress` `WooCommerce` `Dokan` `Custom CSS`
+**Stack:** `WordPress` `WooCommerce` `Variations` `Payment Gateway` `Custom CSS`
 
-[→ View Project](https://murtazawebcreations.vercel.app/)
+[→ View Project](https://www.boxerathletics.com/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Shopify Fashion Brand Store
-Custom Shopify store with unique Liquid-templated product pages, upsell flows, and a mobile-first design that improved conversion rates significantly.
+### 🚀 Silver Oak College
+Developed a professional college website using WordPress & Elementor with a clean, structured academic layout.
 
-**Stack:** `Shopify` `Liquid` `JavaScript` `Custom Theme`
+**Stack:** `Wordpress` `Elementor` `Custom Theme`
 
-[→ View Project](https://murtazawebcreations.vercel.app/)
+[→ View Project](https://silveroakcollege.ca/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Custom WordPress Agency Theme
-A fully custom WordPress theme built from scratch for a digital agency — includes GSAP animations, custom post types, and ACF-powered flexible content areas.
+### ⚛️ Personal Portfolio
+Designed and built a modern developer portfolio from scratch using React JS with smooth UI and responsive design.
 
-**Stack:** `WordPress` `HTML` `CSS` `GSAP` `Tailwind CSS`
+**Stack:** `React js` `Build from Scratch` `CSS` `Javascript` `Email Integration`
 
 [→ View Project](https://murtazawebcreations.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚛️ React SaaS Landing Page
-Modern SaaS marketing page built in React with Tailwind CSS — smooth scroll animations, pricing tables, and fully responsive layout.
+### 🍇 Kashmir Grill
+Created a restaurant website on WordPress with a fully structured digital menu and clean food-focused design.
 
-**Stack:** `React` `Tailwind CSS` `Framer Motion` `Vercel`
+**Stack:** `Wordpress` `Elementor Pro` `Menu`
 
-[→ View Project](https://murtazawebcreations.vercel.app/)
+[→ View Project](https://kashmirgrill.ca/)
 
 </td>
 </tr>
