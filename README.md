@@ -3,11 +3,10 @@
 # Hi, I'm Muhammad Murtaza 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00EEFF&center=false&vCenter=true&width=500&lines=WordPress+Developer;WooCommerce+Expert;Shopify+Expert;Frontend+Developer;UI%2FUX+Craftsman" alt="Typing SVG" />
-
+<div>
 <img src="https://img.shields.io/badge/Experience-3%2B%20Years-00EEFF?style=flat-square" alt="Experience" />
-&nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00cc77?style=flat-square" alt="Status" />
-
+</div>
 ---
 
 ## 🚀 About Me
