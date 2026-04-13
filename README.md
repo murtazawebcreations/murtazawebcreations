@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=800&color=00EEFF&center=true&vCenter=true&width=500&lines=WordPress+Developer;WooCommerce+Expert;Shopify+Expert;Frontend+Developer;UI%2FUX+Craftsman" alt="Typing SVG" />
 <div>
 <img src="https://img.shields.io/badge/Experience-3%2B%20Years-0277BD?style=flat-square" alt="Experience" />
+  &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-0277BD?style=flat-square" alt="Status" />
 </div>
 
@@ -110,7 +111,7 @@ Developed a professional college website using WordPress & Elementor with a clea
 ### ⚛️ Personal Portfolio
 Designed and built a modern developer portfolio from scratch using React JS with smooth UI and responsive design.
 
-**Stack:** `React js` `Build from Scratch` `CSS` `Javascript` `Email Integration`
+**Stack:** `React js` `Build from Scratch` `Email Integration`
 
 [→ View Project](https://murtazawebcreations.vercel.app/)
 
