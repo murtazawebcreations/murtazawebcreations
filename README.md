@@ -132,28 +132,11 @@ Modern SaaS marketing page built in React with Tailwind CSS — smooth scroll an
 
 ## 📊 GitHub Stats
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=murtazawebcreations&show_icons=true&theme=transparent&hide_border=true&title_color=00eeff&icon_color=00eeff&text_color=c9d1d9" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtazawebcreations&layout=compact&theme=transparent&hide_border=true&title_color=00eeff&text_color=c9d1d9" />
+
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=murtazawebcreations&theme=transparent&hide_border=true&ring=00eeff&fire=00eeff&currStreakLabel=00eeff&sideLabels=c9d1d9&dates=8b949e&stroke=00eeff" />
-
----
-
-## 🧩 Developer Philosophy
-
-> *"Great web experiences aren't built by accident — they're the result of intentional design, clean code, and relentless attention to detail."*
-
-<table>
-<tr>
-<td valign="top">⚡ <b>Speed Matters</b><br/><sub>Every ms counts on eCommerce</sub></td>
-<td valign="top">🎯 <b>Purpose Over Aesthetics</b><br/><sub>Design that converts, not just impresses</sub></td>
-<td valign="top">🔁 <b>Continuous Improvement</b><br/><sub>Ship, measure, iterate — always</sub></td>
-<td valign="top">🤝 <b>Client-First Mindset</b><br/><sub>I solve problems, not just write code</sub></td>
-</tr>
-</table>
 
 ---
 
