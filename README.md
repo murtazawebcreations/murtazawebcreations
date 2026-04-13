@@ -13,23 +13,20 @@
 
 ## 🚀 About Me
 
-* 💻 &nbsp;Frontend Developer with 3+ years of experience
+* 
 * ⚡ &nbsp;Specialized in Wordpress, React.js, Woocommerce
 * 🎨 &nbsp;Crafting **pixel-perfect UIs** with obsessive attention to detail
 * ⚡ &nbsp;Delivering **fast, SEO-optimized** web experiences
 * 🤝 &nbsp;Turning client visions into **polished digital products**
+
+<ul font-size="12px">
+  <li font-size="12px">💻 &nbsp;Frontend Developer with 3+ years of experience</li>
+  <li>💻 &nbsp;Frontend Developer with 3+ years of experience</li>
+  <li>💻 &nbsp;Frontend Developer with 3+ years of experience</li>
+  <li>💻 &nbsp;Frontend Developer with 3+ years of experience</li>
+  <li>💻 &nbsp;Frontend Developer with 3+ years of experience</li>
+</ul>
 <br/>
-
----
-
-### 🎯 Core Strengths
-
-- 🏗️ &nbsp;**WordPress** — Custom themes, plugins, complex setups
-- 🛍️ &nbsp;**WooCommerce** — Full-stack store development & optimization
-- 🚀 &nbsp;**Shopify** — Theme customization, Liquid templating, apps
-- 💅 &nbsp;**Frontend** — HTML, CSS, JS, React, Tailwind CSS
-- 📈 &nbsp;**Conversion** — Speed, UX, and SEO optimization
-
 
 ---
 
