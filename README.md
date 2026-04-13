@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=800&color=00EEFF&center=true&vCenter=true&width=500&lines=WordPress+Developer;WooCommerce+Expert;Shopify+Expert;Frontend+Developer;UI%2FUX+Craftsman" alt="Typing SVG" />
 <div>
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-00EEFF?style=flat-square" alt="Experience" />
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-00cc77?style=flat-square" alt="Experience" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00cc77?style=flat-square" alt="Status" />
 </div>
 
@@ -13,23 +13,14 @@
 
 ## 🚀 About Me
 
-* 💻 &nbsp;Frontend Developer with 4+ years of experience
+* 💻 &nbsp;Frontend Developer with 3+ years of experience
 * ⚡ &nbsp;Specialized in Wordpress, React.js, Woocommerce
-* 🛒 &nbsp;Building **high-converting eCommerce stores** that actually sell
 * 🎨 &nbsp;Crafting **pixel-perfect UIs** with obsessive attention to detail
 * ⚡ &nbsp;Delivering **fast, SEO-optimized** web experiences
-* 🔧 &nbsp;Solving complex **WooCommerce & Shopify** challenges daily
 * 🤝 &nbsp;Turning client visions into **polished digital products**
 <br/>
 
-
-
-- 🛒 &nbsp;Building **high-converting eCommerce stores** that actually sell
-- 🎨 &nbsp;Crafting **pixel-perfect UIs** with obsessive attention to detail
-- ⚡ &nbsp;Delivering **fast, SEO-optimized** web experiences
-- 🔧 &nbsp;Solving complex **WooCommerce & Shopify** challenges daily
-- 🤝 &nbsp;Turning client visions into **polished digital products**
-
+---
 
 ### 🎯 Core Strengths
 
