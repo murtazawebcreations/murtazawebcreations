@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=800&color=00EEFF&center=true&vCenter=true&width=500&lines=WordPress+Developer;WooCommerce+Expert;Shopify+Expert;Frontend+Developer;UI%2FUX+Craftsman" alt="Typing SVG" />
 <div>
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-#0277BD?style=flat-square" alt="Experience" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-#0277BD?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-0277BD?style=flat-square" alt="Experience" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-0277BD?style=flat-square" alt="Status" />
 </div>
 
 ---
@@ -88,14 +88,14 @@
 ### 🛍️ Boxer Athletics WooCommerce Store
 Built a full WooCommerce store with payment gateway integration, product variation pricing, and custom shopping experience.
 
-**Stack:** `WordPress` `WooCommerce` `Variations` `Payment Gateway` `Custom CSS`
+**Stack:** `WordPress` `WooCommerce` `Variations` `Payment Gateway`
 
 [→ View Project](https://www.boxerathletics.com/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Silver Oak College
+### 🏫 Silver Oak College
 Developed a professional college website using WordPress & Elementor with a clean, structured academic layout.
 
 **Stack:** `Wordpress` `Elementor` `Custom Theme`
