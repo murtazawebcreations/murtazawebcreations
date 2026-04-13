@@ -12,14 +12,16 @@
 
 ## 🚀 About Me
 
-
+* 💻 &nbsp;Frontend Developer with 4+ years of experience
+* ⚡ &nbsp;Specialized in Wordpress, React.js, Woocommerce
+* 🛒 &nbsp;Building **high-converting eCommerce stores** that actually sell
+* 🎨 &nbsp;Crafting **pixel-perfect UIs** with obsessive attention to detail
+* ⚡ &nbsp;Delivering **fast, SEO-optimized** web experiences
+* 🔧 &nbsp;Solving complex **WooCommerce & Shopify** challenges daily
+* 🤝 &nbsp;Turning client visions into **polished digital products**
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 💡 What Drives Me
 
 - 🛒 &nbsp;Building **high-converting eCommerce stores** that actually sell
 - 🎨 &nbsp;Crafting **pixel-perfect UIs** with obsessive attention to detail
@@ -27,8 +29,6 @@
 - 🔧 &nbsp;Solving complex **WooCommerce & Shopify** challenges daily
 - 🤝 &nbsp;Turning client visions into **polished digital products**
 
-</td>
-<td width="50%" valign="top">
 
 ### 🎯 Core Strengths
 
@@ -38,9 +38,6 @@
 - 💅 &nbsp;**Frontend** — HTML, CSS, JS, React, Tailwind CSS
 - 📈 &nbsp;**Conversion** — Speed, UX, and SEO optimization
 
-</td>
-</tr>
-</table>
 
 ---
 
